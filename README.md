@@ -1,4 +1,4 @@
-maven-public-repo
+Public Maven Repository
 =================
 
 Public Maven Repository
